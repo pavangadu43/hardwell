@@ -1,2 +1,2 @@
-FROM hshar/webapp
-ADD ./devopsIQ /var/www/html/devopsIQ
+FROM ubuntu
+ADD ./hardwell /var/www/html/hardwell
